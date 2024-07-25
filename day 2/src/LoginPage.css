@@ -1,0 +1,22 @@
+.login-container {
+    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F153896512258750412%2F&psig=AOvVaw09UPNncwDZSSn8uYz_bpbW&ust=1721895912411000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMikzPugv4cDFQAAAAAdAAAAABAE');
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-box {
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background for readability */
+    border-radius: 1%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .login-button {
+    margin-top: 1rem;
+  }
+  .register-link {
+    margin-top: 1rem;
+    text-decoration: none;
+  }
+  
